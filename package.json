@@ -10,6 +10,7 @@
   "dependencies": {
     "@chakra-ui/layout": "^1.5.1",
     "@chakra-ui/react": "^1.7.2",
+    "@clerk/clerk-react": "^3.4.0",
     "@dh-react-hooks/use-raf": "^0.9.1",
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
@@ -26,6 +27,7 @@
     "react-dom": "17.0.2",
     "react-howler": "^5.2.0",
     "react-icons": "^4.3.1",
+    "react-spinners": "^0.12.0",
     "reset-css": "^5.0.1",
     "swr": "^1.1.1"
   },
